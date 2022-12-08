@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pottencial - Encaixa ou Não/1.0.0": {
+        "runtime": {
+          "Pottencial - Encaixa ou Não.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pottencial - Encaixa ou Não/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

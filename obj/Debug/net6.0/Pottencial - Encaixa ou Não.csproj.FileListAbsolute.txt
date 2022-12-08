@@ -1,0 +1,15 @@
+C:\dev\Pottencial - Encaixa ou Não\bin\Debug\net6.0\Pottencial - Encaixa ou Não.exe
+C:\dev\Pottencial - Encaixa ou Não\bin\Debug\net6.0\Pottencial - Encaixa ou Não.deps.json
+C:\dev\Pottencial - Encaixa ou Não\bin\Debug\net6.0\Pottencial - Encaixa ou Não.runtimeconfig.json
+C:\dev\Pottencial - Encaixa ou Não\bin\Debug\net6.0\Pottencial - Encaixa ou Não.dll
+C:\dev\Pottencial - Encaixa ou Não\bin\Debug\net6.0\Pottencial - Encaixa ou Não.pdb
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.csproj.AssemblyReference.cache
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.AssemblyInfoInputs.cache
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.AssemblyInfo.cs
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.csproj.CoreCompileInputs.cache
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.dll
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\refint\Pottencial - Encaixa ou Não.dll
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.pdb
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\Pottencial - Encaixa ou Não.genruntimeconfig.cache
+C:\dev\Pottencial - Encaixa ou Não\obj\Debug\net6.0\ref\Pottencial - Encaixa ou Não.dll
